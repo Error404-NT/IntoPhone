@@ -19,4 +19,4 @@
     codigo de país.
 
    **Ejemplo:**
-    +52 81 3273 3710 > Número de México
++52 81 3273 3710 > Número de México
