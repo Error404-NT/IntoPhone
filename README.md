@@ -18,6 +18,7 @@
     Utilice solo numeros con su respectivo
     codigo de país.
 
-   **Ejemplo:**
+    Ejemplo
+    Este es un número de México
 
-    +52 81 3273 3710 > Número de México
+    +52 81 3273 3710
