@@ -3,7 +3,7 @@
     información basica de números telefónicos
 
     Este Script funciona atraves de una API 
-    gratuita que propociona la empresa Numverify
+    gratuita que propociona la empresa Numverify.
 
 # Instalación
     pkg update && pkg upgrade -y
@@ -18,7 +18,7 @@
     Utilice solo numeros con su respectivo
     codigo de país.
 
-    Ejemplo
-    Este es un número de México
 
-    +52 81 3273 3710
+   ** Ejemplo:**
+
+    +52 81 3273 3710 = Número de México
