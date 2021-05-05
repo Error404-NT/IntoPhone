@@ -1,8 +1,11 @@
 # Numbers scanning
-    Es un Script para Termux que obtine informacion basica de numeros telefonicos
-    Este Script funciona atraves de una API gratuita que propociona la empresa Numverify
+    Es un Script para Termux que obtine
+    información basica de números telefónicos
 
-# Instalacion
+    Este Script funciona atraves de una API 
+    gratuita que propociona la empresa Numverify
+
+# Instalación
     pkg update && pkg upgrade -y
     pkg install -y python
     pkg install -y git
@@ -10,3 +13,7 @@
     cd Carpeta git
     chmod +x install.sh
     python3 main.py
+
+### Uso:
+    Utilice solo numeros con su respectivo
+    codigo de país.
