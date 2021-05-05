@@ -15,7 +15,7 @@
     python3 main.py
 
 ### Uso:
-    Utilice solo numeros con su respectivo
+    Utilice sólo números con su respectivo
     codigo de país.
 
 
